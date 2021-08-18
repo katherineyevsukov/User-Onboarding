@@ -20,7 +20,16 @@ form {
   flex-direction: column;
   padding: 1% 0;
 }
-input{
-  margin-bottom: 2%;
+input, select{
+  margin-bottom: 1%;
+}
+button{
+  width: 10%;
+  margin: 0 auto;
+}
+
+h2, h3 {
+  border: 1px solid grey;
+  margin: 1% 40%;
 }
 
